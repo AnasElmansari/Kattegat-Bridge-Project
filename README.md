@@ -1,2 +1,2 @@
 # Kattegat-Bridge-Project
-A C program uses four datasets to calculate optimal routes and CO2 emissions for current trains, future IC5 trains, and IC5 trains on the Kattegat Bridge project, highlighting the unnecessary need for domestic flights in Denmark and their harmful CO2 emissions.
+A program, developed using C programming and four different datasets, calculates the optimal route and CO2 emissions for the current trains, the future IC5 trains, and the IC5 trains operating on the proposed Kattegat Bridge project. The program fundamentally supports the argument against the necessity of domestic flights in Denmark and highlights the harmful CO2 emissions they generate.  
